@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{A705B2C4-ED84-7F0A-0BEF-D24BA57C97AA}|Unit Tests">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ClickableObject.cs">
+    <Files>
+      <File FileName="Assets/SamplesResources/VuforiaSamplesUI/Scripts/SamplesAboutScreenInfo.cs" Line="77" Column="1" />
+      <File FileName="Assets/Scripts/ClickableObject.cs" Line="7" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp-Editor PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
