@@ -1,9 +1,10 @@
-﻿<Properties StartupConfiguration="{A705B2C4-ED84-7F0A-0BEF-D24BA57C97AA}|Unit Tests">
+﻿<Properties StartupConfiguration="{4BE6A7E0-797A-393D-A70A-5D5C29FDF83D}|">
   <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ClickableObject.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/RedFader.cs">
     <Files>
       <File FileName="Assets/SamplesResources/VuforiaSamplesUI/Scripts/SamplesAboutScreenInfo.cs" Line="77" Column="1" />
-      <File FileName="Assets/Scripts/ClickableObject.cs" Line="7" Column="26" />
+      <File FileName="Assets/Scripts/ClickableObject.cs" Line="37" Column="9" />
+      <File FileName="Assets/Scripts/RedFader.cs" Line="7" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
