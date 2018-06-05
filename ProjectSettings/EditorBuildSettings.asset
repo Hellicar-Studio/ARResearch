@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/VirtualButton.unity
     guid: e3beb72b028ad45d982f485d16bc7b41
+  - enabled: 1
+    path: Assets/Scenes/Paint.unity
+    guid: 84bac8b8c4b1b439fa9d92bca1477dbf
   m_configObjects: {}
